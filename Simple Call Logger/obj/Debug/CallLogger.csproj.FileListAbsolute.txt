@@ -1,0 +1,19 @@
+D:\Hnin\Simple Call Logger\Simple Call Logger\bin\Debug\Simple Call Logger.exe.config
+D:\Hnin\Simple Call Logger\Simple Call Logger\bin\Debug\Simple Call Logger.exe
+D:\Hnin\Simple Call Logger\Simple Call Logger\bin\Debug\Simple Call Logger.pdb
+D:\Hnin\Simple Call Logger\Simple Call Logger\bin\Debug\CallLogAccess.dll
+D:\Hnin\Simple Call Logger\Simple Call Logger\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Hnin\Simple Call Logger\Simple Call Logger\bin\Debug\CallLogAccess.pdb
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple_Call_Logger.CallLog.resources
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple_Call_Logger.Customer.resources
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple_Call_Logger.Main.resources
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple_Call_Logger.Properties.Resources.resources
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple_Call_Logger.Report.resources
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple_Call_Logger.Staff.resources
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\CallLogger.csproj.GenerateResource.Cache
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple Call Logger.exe.licenses
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\RdlCompile.cache
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\RdlCompile.compiled
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple Call Logger.exe
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\Simple Call Logger.pdb
+D:\Hnin\Simple Call Logger\Simple Call Logger\obj\Debug\CallLogger.csprojResolveAssemblyReference.cache

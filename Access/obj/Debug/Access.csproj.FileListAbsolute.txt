@@ -1,0 +1,8 @@
+D:\Hnin\Simple Call Logger\Access\bin\Debug\Access.exe.config
+D:\Hnin\Simple Call Logger\Access\bin\Debug\Access.exe
+D:\Hnin\Simple Call Logger\Access\bin\Debug\Access.pdb
+D:\Hnin\Simple Call Logger\Access\obj\Debug\Access.csprojResolveAssemblyReference.cache
+D:\Hnin\Simple Call Logger\Access\obj\Debug\Access.Properties.Resources.resources
+D:\Hnin\Simple Call Logger\Access\obj\Debug\Access.csproj.GenerateResource.Cache
+D:\Hnin\Simple Call Logger\Access\obj\Debug\Access.exe
+D:\Hnin\Simple Call Logger\Access\obj\Debug\Access.pdb
